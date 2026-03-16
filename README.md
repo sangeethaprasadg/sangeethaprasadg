@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sangeetha 👋
 
-<!--
-**sangeethaprasadg/sangeethaprasadg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Physics graduate  
+💻 Learning JavaScript, Node.js, and MongoDB  
+🚀 Working towards becoming a Full Stack Developer  
 
-Here are some ideas to get you started:
+## Technologies I'm Learning
+- JavaScript
+- Node.js
+- MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Project
+- js_2026 (JavaScript practice repository)
+
+## Contact
+Email: sangeethaprasadg@gmail.com
